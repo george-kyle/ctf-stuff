@@ -1,0 +1,12 @@
+***Booting images and dynamic analysis***
+Qemu (Kali)
+Gdb (can tie into Qemu) (Kali)
+
+***Stego***
+Stegsolve (capable of LSB identification)
+Binwalker (just finds files in files and extracts them)
+Zsteg (capable of LSB) (Kali, install with gem)
+
+***Hashes***
+Hash-identifier
+Hashcat
